@@ -1,2 +1,2 @@
 Hi, I’m <b>Franklin Ike</b>, a <b>Python Expert</b> specializing in Data Science & Machine Learning.
-My focus is on building robust and efficient solutions across these diverse domains. I enjoy tackling diverse technical problems and delivering effective Python-based solutions.
+My focus is on building robust and efficient solutions across these diverse domains. I enjoy tackling diverse technical problems and delivering effective Python-based solutions. I can help you analyze complex datasets, build predictive models, and apply machine learning techniques to extract insights and automate decision-making.
